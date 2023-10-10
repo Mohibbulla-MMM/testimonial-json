@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "client_names": "Sarah & John Smith",
+    "testimonial_text": "Choosing [Cruise Ship Wedding Celebrations] was the best decision we made for our big day. They transformed our vision into a fairytale wedding. Their attention to detail and dedication to making every moment perfect left us speechless. We are forever grateful!",
+    "img_url": "https://i.ibb.co/ck4ym2Y/d.jpg"
+  },
+  {
+    "id": 2,
+    "client_names": "Emily & Michael Brown",
+    "testimonial_text": "[Enchanted Forest Wedding Fastival] made our wedding stress-free and magical. From the stunning décor to flawless coordination, they exceeded our expectations. Our guests are still raving about it. Thank you for making our day truly unforgettable!",
+    "img_url": "https://i.ibb.co/pfsfDXL/a.jpg"
+  },
+  {
+    "id": 3,
+    "client_names": "David & Jennifer Clark",
+    "testimonial_text": "We can't express how grateful we are to [Cruise Ship Wedding Celebrations] for making our wedding a dream come true. Their team's professionalism and creativity shone through every aspect of our special day. It was perfect in every way.",
+    "img_url": "https://i.ibb.co/q7zJdXd/i.jpg"
+  },
+  {
+    "id": 4,
+    "client_names": "Alex & Jessica Turner",
+    "testimonial_text": "We had a vision, and [Full-Service Wedding Planning] brought it to life. Their team's expertise and guidance were invaluable. Our wedding was beyond beautiful, and we can't thank them enough for their dedication and hard work.",
+    "img_url": "https://i.ibb.co/Vv2Nyd3/h.jpg"
+  },
+  {
+    "id": 5,
+    "client_names": "Robert & Maria Martinez",
+    "testimonial_text": "From the first meeting to the final dance, [Day-of Coordination] was by our side, ensuring every detail was perfect. Their passion for what they do is evident, and it made our wedding an unforgettable experience. We highly recommend them!",
+    "img_url": "https://i.ibb.co/1Tm79f9/e.jpg"
+  }
+]
